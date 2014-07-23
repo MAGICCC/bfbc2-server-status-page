@@ -15,7 +15,7 @@ Requirements
 Configuration
 =============
 
-To add your servers just edit the <code>inc/number.php</code> and e.g. the <code>conquest.php</code> file.
+To add your servers just edit the <code>inc/php/servers/number.php</code> and e.g. the <code>conquest.php</code> file.
 
 
 Credits
@@ -26,6 +26,7 @@ Credits
 - Imperative for the json help: https://github.com/Impyy
 - [NoFaTe](https://github.com/OrfeasZ) for the API and [EmulatorNexus](http://portal.emulatornexus.com/)
 - [Tablesgenerator](http://www.tablesgenerator.com/html_tables) because I was too lazy to create tables
+- Bootstrap for the basic template
 - me for putting all the shit together
 
 
