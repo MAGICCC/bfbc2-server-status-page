@@ -31,5 +31,5 @@ Credits
 License
 =======
 
-The license under which source code and binaries are released is the _GNU Affero General Public License (AGPL) Version 3_.
-More infos in the LICENSE.txt file.
+The license under which source code is released is the _GNU Affero General Public License (AGPL) Version 3_.
+More infos in the LICENSE file.
