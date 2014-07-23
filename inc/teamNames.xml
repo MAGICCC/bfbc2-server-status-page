@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- powered by: BC2Conn - PHP class for communicating with a gameserver
+	visit http://bc2conn.sf.net/ for updates, API & more! -->
+<!-- big THX to Phogue from www.phogue.net -->
+<!-- $Id: teamNames.xml 13 2010-06-09 21:14:46Z jlnnn $ -->
+<teamNames>
+	<teamName case="default">
+		<playMode uri="RUSH">
+			<team id="0">
+				<name>Rush Neutral</name>
+			</team>
+			<team id="1">
+				<name>Attackers</name>
+			</team>
+			<team id="2">
+				<name>Defenders</name>
+			</team>
+		</playMode>
+		<playMode uri="CONQUEST">
+			<team id="0">
+				<name>Conquest Neutral</name>
+			</team>
+			<team id="1">
+				<name>U.S. Army</name>
+			</team>
+			<team id="2">
+				<name>Russian Army</name>
+			</team>
+		</playMode>
+		<playMode uri="SQRUSH">
+			<team id="0">
+				<name>Squad Rush Neutral</name>
+			</team>
+			<team id="1">
+				<name>U.S. Army</name>
+			</team>
+			<team id="2">
+				<name>Russian Army</name>
+			</team>
+		</playMode>
+	</teamName>
+
+	<teamName case="Levels/MP_012GR">
+		<playMode uri="RUSH">
+			<team id="0">
+				<name>Rush Neutral</name>
+			</team>
+			<team id="1">
+				<name>Defenders</name>
+			</team>
+			<team id="2">
+				<name>Attackers</name>
+			</team>
+		</playMode>
+	</teamName>
+
+	<teamName case="Levels/MP_008">
+		<playMode uri="RUSH">
+			<team id="0">
+				<name>Rush Neutral</name>
+			</team>
+			<team id="1">
+				<name>Defenders</name>
+			</team>
+			<team id="2">
+				<name>Attackers</name>
+			</team>
+		</playMode>
+	</teamName>
+
+	<teamName case="SQDM">
+		<playMode uri="SQDM">
+			<squad id="0">
+				<name>Squad Rush Neutral</name>
+			</squad>
+			<squad id="1">
+				<name>Alpha Squad</name>
+			</squad>
+			<squad id="2">
+				<name>Bravo Squad</name>
+			</squad>
+			<squad id="3">
+				<name>Charlie Squad</name>
+			</squad>
+			<squad id="4">
+				<name>Delta Squad</name>
+			</squad>
+		</playMode>
+	</teamName>
+</teamNames>

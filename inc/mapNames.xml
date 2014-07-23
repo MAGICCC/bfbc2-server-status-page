@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- powered by: BC2Conn - PHP class for communicating with a gameserver
+	visit http://bc2conn.sf.net/ for updates, API & more! -->
+<!-- $Id: mapNames.xml 28 2011-02-02 22:42:16Z jlnnn $ -->
+<mapNames>
+	<!-- BATTLEFIELD BAD COMPANY 2 -->
+	<!-- CONQUEST, 11 maps -->
+	<map uri="Levels/MP_001" name="Panama Canal" playmode="CONQUEST" />
+	<map uri="Levels/MP_003" name="Laguna Alta" playmode="CONQUEST" />
+	<map uri="Levels/MP_005" name="Atacama Desert" playmode="CONQUEST" />
+	<map uri="Levels/MP_006CQ" name="Arica Harbor" playmode="CONQUEST" />
+	<map uri="Levels/MP_007" name="White Pass" playmode="CONQUEST" />
+	<map uri="Levels/MP_008CQ" name="Nelson Bay" playmode="CONQUEST" />
+	<map uri="Levels/MP_009CQ" name="Laguna Presa" playmode="CONQUEST" />
+	<map uri="Levels/MP_012CQ" name="Port Valdez" playmode="CONQUEST" />
+	<map uri="Levels/BC1_OASIS_CQ" name="Oasis" playmode="CONQUEST" />
+	<map uri="Levels/BC1_HARVEST_DAY_CQ" name="Harvest Day" playmode="CONQUEST" />
+	<map uri="Levels/MP_SP_005CQ" name="Heavy Metal" playmode="CONQUEST" />
+
+	<!-- RUSH, 11 maps -->
+	<map uri="Levels/MP_002" name="Valparaiso" playmode="RUSH" />
+	<map uri="Levels/MP_004" name="Isla Inocentes" playmode="RUSH" />
+	<map uri="Levels/MP_005GR" name="Atacama Desert" playmode="RUSH" />
+	<map uri="Levels/MP_006" name="Arica Harbor" playmode="RUSH" />
+	<map uri="Levels/MP_007GR" name="White Pass" playmode="RUSH" />
+	<map uri="Levels/MP_008" name="Nelson Bay" playmode="RUSH" />
+	<map uri="Levels/MP_009GR" name="Laguna Presa" playmode="RUSH" />
+	<map uri="Levels/MP_012GR" name="Port Valdez" playmode="RUSH" />
+	<map uri="Levels/BC1_OASIS_GR" name="Oasis" playmode="RUSH" />
+	<map uri="Levels/BC1_HARVEST_DAY_GR" name="Harvest Day" playmode="RUSH" />
+	<map uri="Levels/MP_SP_002GR" name="Cold War" playmode="RUSH" />
+
+	<!-- SQUAD RUSH, 9 maps -->
+	<map uri="Levels/MP_001SR" name="Panama Canal" playmode="SQRUSH" />
+	<map uri="Levels/MP_002SR" name="Valparaiso" playmode="SQRUSH" />
+	<map uri="Levels/MP_003SR" name="Laguna Alta" playmode="SQRUSH" />
+	<map uri="Levels/MP_005SR" name="Atacama Desert" playmode="SQRUSH" />
+	<map uri="Levels/MP_009SR" name="Laguna Presa" playmode="SQRUSH" />
+	<map uri="Levels/MP_012SR" name="Port Valdez" playmode="SQRUSH" />
+	<map uri="Levels/BC1_OASIS_SR" name="Oasis" playmode="SQRUSH" />
+	<map uri="Levels/BC1_HARVEST_DAY_SR" name="Harvest Day" playmode="SQRUSH" />
+	<map uri="Levels/MP_SP_002SR" name="Cold War" playmode="SQRUSH" />
+
+	<!-- SQUAD DEATHMATCH, 10 maps -->
+	<map uri="Levels/MP_001SDM" name="Panama Canal" playmode="SQDM" />
+	<map uri="Levels/MP_004SDM" name="Isla Inocentes" playmode="SQDM" />
+	<map uri="Levels/MP_006SDM" name="Arica Harbor" playmode="SQDM" />
+	<map uri="Levels/MP_007SDM" name="White Pass" playmode="SQDM" />
+	<map uri="Levels/MP_008SDM" name="Nelson Bay" playmode="SQDM" />
+	<map uri="Levels/MP_009SDM" name="Laguna Presa" playmode="SQDM" />
+	<map uri="Levels/BC1_OASIS_SDM" name="Oasis" playmode="SQDM" />
+	<map uri="Levels/BC1_HARVEST_DAY_SDM" name="Harvest Day" playmode="SQDM" />
+	<map uri="Levels/MP_SP_002SDM" name="Cold War" playmode="SQDM" />
+	<map uri="Levels/MP_SP_005SDM" name="Heavy Metal" playmode="SQDM" />
+	
+	<!-- BATTLEFIELD BAD COMPANY 2: VIETNAM -->
+	<!-- CONQUEST, 5 maps -->
+	<map uri="Levels/NAM_MP_002CQ" name="Vantage Point" playmode="CONQUEST" />
+	<map uri="Levels/NAM_MP_003CQ" name="Hill 137" playmode="CONQUEST" />
+	<map uri="Levels/NAM_MP_005CQ" name="Cao Son Temple" playmode="CONQUEST" />
+	<map uri="Levels/NAM_MP_006CQ" name="Phu Bai Valley" playmode="CONQUEST" />
+	<map uri="Levels/NAM_MP_007CQ" name="Operation Hastings" playmode="CONQUEST" />
+
+	<!-- RUSH, 5 maps -->
+	<map uri="Levels/NAM_MP_002R" name="Vantage Point" playmode="RUSH" />
+	<map uri="Levels/NAM_MP_003R" name="Hill 137" playmode="RUSH" />
+	<map uri="Levels/NAM_MP_005R" name="Cao Son Temple" playmode="RUSH" />
+	<map uri="Levels/NAM_MP_006R" name="Phu Bai Valley" playmode="RUSH" />
+	<map uri="Levels/NAM_MP_007R" name="Operation Hastings" playmode="RUSH" />
+
+	<!-- SQUAD RUSH, 5 maps -->
+	<map uri="Levels/NAM_MP_002SR" name="Vantage Point" playmode="SQRUSH" />
+	<map uri="Levels/NAM_MP_003SR" name="Hill 137" playmode="SQRUSH" />
+	<map uri="Levels/NAM_MP_005SR" name="Cao Son Temple" playmode="SQRUSH" />
+	<map uri="Levels/NAM_MP_006SR" name="Phu Bai Valley" playmode="SQRUSH" />
+	<map uri="Levels/NAM_MP_007SR" name="Operation Hastings" playmode="SQRUSH" />
+
+	<!-- SQUAD DEATHMATCH, 5 maps -->
+	<map uri="Levels/NAM_MP_002SDM" name="Vantage Point" playmode="SQDM" />
+	<map uri="Levels/NAM_MP_003SDM" name="Hill 137" playmode="SQDM" />
+	<map uri="Levels/NAM_MP_005SDM" name="Cao Son Temple" playmode="SQDM" />
+	<map uri="Levels/NAM_MP_006SDM" name="Phu Bai Valley" playmode="SQDM" />
+	<map uri="Levels/NAM_MP_007SDM" name="Operation Hastings" playmode="SQDM" />
+</mapNames>
