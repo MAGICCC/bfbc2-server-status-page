@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="MAGIC">
-	<link rel="shortcut icon" href="images/bc2.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="inc/img/bc2.ico" type="image/x-icon">
 
     <title>Emulator Nexus &bull; MAGICs Serverlist</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="inc/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS for the 'Full' Template -->
-    <link href="css/full.css" rel="stylesheet">
+    <link href="inc/css/full.css" rel="stylesheet">
 </head>
 
 <body>
@@ -53,7 +53,7 @@
 
     
 	<?php
-	include ("inc/BC2Conn.php");
+	include ("inc/php/servers/BC2Conn.php");
 	
 	$BC2Conn_2 = new BC2Conn("127.0.0.1", 48890); //Bad Company 2: Rush 24/7
 	$BC2Conn_3 = new BC2Conn("127.0.0.1", 48892); //Bad Company 2: Rush 24/7 #2
@@ -64,20 +64,20 @@
 	$BC2Conn_10 = new BC2Conn("127.0.0.1", 48884); //Bad Company 2: Valparaiso 24/7	#2
 		
 		
-	include ("inc/2.php");
-	include ("inc/3.php");
-	include ("inc/6.php");
-	include ("inc/7.php");
-	include ("inc/8.php");
-	include ("inc/9.php");
-	include ("inc/10.php");
+	include ("inc/php/servers/2.php");
+	include ("inc/php/servers/3.php");
+	include ("inc/php/servers/6.php");
+	include ("inc/php/servers/7.php");
+	include ("inc/php/servers/8.php");
+	include ("inc/php/servers/9.php");
+	include ("inc/php/servers/10.php");
 
 ?>
 	
 
     <!-- JavaScript -->
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <script src="inc/js/jquery-1.10.2.js"></script>
+    <script src="inc/js/bootstrap.js"></script>
 
 </body>
 </html>

@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="MAGIC">
-	<link rel="shortcut icon" href="images/bc2.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="inc/img/bc2.ico" type="image/x-icon">
 
     <title>Emulator Nexus &bull; FOV Calculator<</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="inc/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS for the 'Full' Template -->
-    <link href="css/full.css" rel="stylesheet">
+    <link href="inc/css/full.css" rel="stylesheet">
 </head>
 
 <body>
@@ -52,7 +52,7 @@
     </nav>
 
 
-<?php include ("inc/fov.php"); ?>
+<?php include ("inc/php/fovstatus/fov.php"); ?>
 
 	<div class='container' style='padding-top:20px' align='center'> 
 	<div class='bgfov'>
@@ -103,7 +103,7 @@
     <p><b><u>Explanation</u></b></p>
 	<p>FOV (Field of View) determines how much of your surrounding area you can see without turning.</p>
 	<p>Usually in FPS games where this is configurable, you adjust the horizontal field of view so you can see more to the left and right. Battlefield: Bad Company 2 uses vertical FOV instead, so it's a little harder to work out what you need to set it to. Here's the formula, bearing in mind it works in <em>radians</em>, not degrees:</p>
-	<p><img src="images/fov.png" alt="FOV formula"></p>
+	<p><img src="inc/img/fov.png" alt="FOV formula"></p>
 	<p>Not really something you can do in your head, huh? :D So, simply enter your in-game screen resolution and preferred horizontal FOV above and click the calculate button.</p>
 	<p>There's currently no way to change this setting in-game, so you'll need to update your <em>settings.ini</em> file manually. The default location is <em>"My Documents\BFBC2"</em>. Open it with notepad and find the line that says something like <em>fov=55</em>, change the number and save the file. If you can't find this line, you'll need to add it yourself. Just make sure it's somewhere under <em>[Graphics]</em>.</p>
 </div>
@@ -113,9 +113,9 @@
 
 
     <!-- JavaScript -->
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
-	<script type="text/javascript" src="js/fov.js"></script>
+    <script src="inc/js/jquery-1.10.2.js"></script>
+    <script src="inc/js/bootstrap.js"></script>
+	<script type="text/javascript" src="inc/js/fov.js"></script>
 
 </body>
 </html>

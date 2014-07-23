@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- powered by: BC2Conn - PHP class for communicating with a gameserver
+	visit http://bc2conn.sf.net/ for updates, API & more! -->
+<!-- $Id: squadNames.xml 13 2010-06-09 21:14:46Z jlnnn $ -->
+<squadNames>
+	<squad id="0" name="/" />
+	<squad id="1" name="Alpha Squad" />
+	<squad id="2" name="Bravo Squad" />
+	<squad id="3" name="Charlie Squad" />
+	<squad id="4" name="Delta Squad" />
+	<squad id="5" name="Echo Squad" />
+	<squad id="6" name="Foxtrot Squad" />
+	<squad id="7" name="Golf Squad" />
+	<squad id="8" name="Hotel Squad" />
+</squadNames>

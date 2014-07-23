@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="MAGIC">
-	<link rel="shortcut icon" href="images/bc2.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="inc/img/bc2.ico" type="image/x-icon">
 
     <title>Emulator Nexus &bull; Statuspage</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="inc/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS for the 'Full' Template -->
-    <link href="css/full.css" rel="stylesheet">
+    <link href="inc/css/full.css" rel="stylesheet">
 </head>
 
 <body>
@@ -58,7 +58,7 @@
 	echo "<div class='bgstatus'>";
 	echo "<p><b><u>Status</u></b></p>";
 
-	include ("inc/status.php");
+	include ("inc/php/fovstatus/status.php");
 	
 	echo "</div>"; 
 	echo "</div>";	
@@ -70,7 +70,7 @@
 	echo "<div class='bgstats'>";
 	echo "<p><b><u>Stats</u></b></p>";
 	
-	include ("inc/stats.php");
+	include ("inc/php/fovstatus/stats.php");
 	
 	echo "<p></p>";
 	echo "</div>"; 
@@ -79,8 +79,8 @@
 	
 
     <!-- JavaScript -->
-    <script src="js/jquery-1.10.2.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <script src="inc/js/jquery-1.10.2.js"></script>
+    <script src="inc/js/bootstrap.js"></script>
 
 </body>
 </html>
