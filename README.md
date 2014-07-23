@@ -25,6 +25,7 @@ Credits
 - simple FOV calculator for BF:BC2 by Rulesy: http://www.rjdown.co.uk/projects/bfbc2/fovcalculator.php
 - Imperative for the json help: https://github.com/Impyy
 - [NoFaTe](https://github.com/OrfeasZ) for the API and [EmulatorNexus](http://portal.emulatornexus.com/)
+- [Tablesgenerator](http://www.tablesgenerator.com/html_tables) because I was too lazy to create tables
 - me for putting all the shit together
 
 
