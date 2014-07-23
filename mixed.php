@@ -42,6 +42,8 @@
                     </li>
 					<li><a href="http://emulatornexus.com" target="_blank">EmulatorNexus</a>
                     </li>
+					<li><a href="https://github.com/MAGICCC/bfbc2-server-status-page" target"_blank">Source</a>
+                    </li>
 				</ul>
             </div>
             <!-- /.navbar-collapse -->
