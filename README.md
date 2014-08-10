@@ -23,10 +23,11 @@ Credits
 
 - BC2Conn v1.06 RC3 - PHP class for communicating with a Battlefield Bad Company 2 gameserver: http://bc2conn.sourceforge.net/
 - simple FOV calculator for BF:BC2 by Rulesy: http://www.rjdown.co.uk/projects/bfbc2/fovcalculator.php
-- Imperative for the json help: https://github.com/Impyy
+- [Imperative] (https://github.com/Impyy) for the json help
 - [NoFaTe](https://github.com/OrfeasZ) for the API and [EmulatorNexus](http://portal.emulatornexus.com/)
 - [Tablesgenerator](http://www.tablesgenerator.com/html_tables) because I was too lazy to create tables
 - Bootstrap for the basic template
+- [dekart811] (http://dekart811.net) for some design 
 - me for putting all the shit together
 
 
